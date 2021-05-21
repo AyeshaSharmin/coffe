@@ -1,0 +1,11 @@
+Clone
+add
+commit
+push-upload
+pull-download
+repository-project 
+
+fetch
+clone|pull
+diff
+diff Head|git merge|git checkout 
